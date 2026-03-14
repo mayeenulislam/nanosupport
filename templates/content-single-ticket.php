@@ -49,7 +49,7 @@
 			<div class="ns-row">
 				<div class="ns-col-sm-11">
 					<h1 class="ticket-head">
-						<span class="ns-text-muted ns-small" aria-label="<?php printf( esc_attr__('Ticket ID: %s'), get_the_ID() ); ?>">#<?php the_ID(); ?> &ndash; </span><?php the_title(); ?>
+						<span class="ns-text-muted ns-small" aria-label="<?php printf( esc_attr__('Ticket ID: %s', 'nanosupport'), get_the_ID() ); ?>">#<?php the_ID(); ?> &ndash; </span><?php the_title(); ?>
 					</h1>
 					<p class="ticket-author"><i class="ns-icon-user" aria-hidden="true"></i> <?php echo $author->display_name; ?></p>
 
