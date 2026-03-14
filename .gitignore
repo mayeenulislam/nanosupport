@@ -27,6 +27,9 @@ $RECYCLE.BIN/
 ## Windows shortcuts
 *.lnk
 
+## Mac Files
+.DS_Store
+
 ## Editor settings
 .idea
 *.sublime-project

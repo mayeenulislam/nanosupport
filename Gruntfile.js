@@ -12,7 +12,7 @@ module.exports = function (grunt) {
     var today = new Date();
     var year = today.getFullYear();
 
-    var sass = require('node-sass');
+
 
     // @Grunt: Get our configuration
     grunt.initConfig({
@@ -57,7 +57,7 @@ module.exports = function (grunt) {
         sass: {
             dist: {
                 options: {
-                    implementation: sass,
+                    implementation: require('sass'),
                     sourceMap: false
                 },
                 files: {
