@@ -12,13 +12,13 @@ Create a fully featured Support Center within your WordPress environment without
 
 It has a built-in Knowledgebase that can be used for information that are for public acknowledgement.
 
-The plugin is to provide support to your users - the users those are taking product or services from you. So the plugin provides a manageable communication privately in between you and your specific customer only. Take a look at the [installation process](https://github.com/nanodesigns/nanosupport/wiki/Installation) and [how to use](https://github.com/nanodesigns/nanosupport/wiki/How-to-Use) the plugin.
+The plugin is to provide support to your users - the users those are taking product or services from you. So the plugin provides a manageable communication privately in between you and your specific customer only. Take a look at the [installation process](https://github.com/mayeenulislam/nanosupport/wiki/Installation) and [how to use](https://github.com/mayeenulislam/nanosupport/wiki/How-to-Use) the plugin.
 
-[:white_check_mark: Read the List of its nice **Features**](https://github.com/nanodesigns/nanosupport/wiki/Introduction-&-Features)<br>
-[:computer: See the **Screenshots**](https://github.com/nanodesigns/nanosupport/wiki/Screenshots)
+[:white_check_mark: Read the List of its nice **Features**](https://github.com/mayeenulislam/nanosupport/wiki/Introduction-&-Features)<br>
+[:computer: See the **Screenshots**](https://github.com/mayeenulislam/nanosupport/wiki/Screenshots)
 
 ---
-[:notebook_with_decorative_cover: **User Guide**](https://github.com/nanodesigns/nanosupport/wiki) [:earth_asia: **Translate** NanoSupport](https://translate.wordpress.org/projects/wp-plugins/nanosupport)
+[:notebook_with_decorative_cover: **User Guide**](https://github.com/mayeenulislam/nanosupport/wiki) [:earth_asia: **Translate** NanoSupport](https://translate.wordpress.org/projects/wp-plugins/nanosupport)
 
 ---
 
@@ -39,15 +39,15 @@ We're managing things using:
 Open the command console and type the following to install dependencies:
 
 ````bash
-git clone https://github.com/nanodesigns/nanosupport.git nanosupport && cd nanosupport && yarn install && grunt
+git clone https://github.com/mayeenulislam/nanosupport.git nanosupport && cd nanosupport && yarn install && grunt
 ````
 
 This code will download the plugin code, install node_modules and will build necessary javascripts and styles.
 
-* [:octocat: Fork on Github](https://github.com/nanodesigns/nanosupport) &mdash; <small>[:blue_book: Consult the Developer guide](https://github.com/nanodesigns/nanosupport/wiki/Developer-Guide)</small>
-* [:bug: Report Bug/Limitations or Suggest Feature/Enhancement](https://github.com/nanodesigns/nanosupport/issues/new/choose)
-* [:flashlight: Get Support](https://github.com/nanodesigns/nanosupport/issues/new/choose)
+* [:octocat: Fork on Github](https://github.com/mayeenulislam/nanosupport) &mdash; <small>[:blue_book: Consult the Developer guide](https://github.com/mayeenulislam/nanosupport/wiki/Developer-Guide)</small>
+* [:bug: Report Bug/Limitations or Suggest Feature/Enhancement](https://github.com/mayeenulislam/nanosupport/issues/new/choose)
+* [:flashlight: Get Support](https://github.com/mayeenulislam/nanosupport/issues/new/choose)
 * [:earth_asia: Translate NanoSupport](https://translate.wordpress.org/projects/wp-plugins/nanosupport)
 
 ---
-![nanosupport-icon](https://cloud.githubusercontent.com/assets/4551598/18225502/20899fb0-7215-11e6-89b2-77002df466d7.png) **NanoSupport**, by [**nano**designs](https://nanodesignsbd.com?ref=nanosupport) &mdash; [<kbd>Twitter</kbd>](https://twitter.com/nanodesigns/) [<kbd>Facebook</kbd>](https://facebook.com/nanodesignsbd/) [<kbd>LinkedIn</kbd>](https://www.linkedin.com/company/nanodesigns)
+![nanosupport-icon](https://cloud.githubusercontent.com/assets/4551598/18225502/20899fb0-7215-11e6-89b2-77002df466d7.png) **NanoSupport**, by [Mayeenul Islam](https://mayeenulislam.github.io?ref=nanosupport) &mdash; [<kbd>X</kbd>](https://x.com/mayeenulislam/) [<kbd>Facebook</kbd>](https://facebook.com/mayeenulislam/) [<kbd>LinkedIn</kbd>](https://www.linkedin.com/in/mayeenulislam)
