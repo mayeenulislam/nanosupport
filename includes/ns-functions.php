@@ -28,7 +28,7 @@ if ( ! defined( 'ABSPATH' ) ) {
 function ns_exclude_responses_in_comments(\WP_Comment_Query $query) {
 	if( is_admin() ) {
 		$screen = get_current_screen();
-		if( !('edit' === $screen->parent_base && 'nanosupport' === $screen->post_type) ) {
+		if( !($screen && 'edit' === $screen->parent_base && 'nanosupport' === $screen->post_type) ) {
 			/* only allow 'nanosupport_response' and 'nanosupport_change' when is required explicitly */
 			if ( ! in_array($query->query_vars['type'], array('nanosupport_response', 'nanosupport_change')) ) {
 				$query->query_vars['type__not_in'] = array_merge((array) $query->query_vars['type__not_in'], array('nanosupport_response', 'nanosupport_change'));
