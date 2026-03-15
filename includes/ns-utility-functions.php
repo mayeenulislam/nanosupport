@@ -5,7 +5,7 @@
  * Stored all the helper functions that are ocassionally used
  * for specific purposes only.
  *
- * @author      nanodesigns
+ * @author      Mayeenul Islam
  * @category    Helpers
  * @package     NanoSupport
  */
@@ -146,7 +146,7 @@ function ns_get_ticket_departments( $post_id = null ) {
  * Making onDomain Email from Host URL.
  *
  * @author  Sisir Kanti Adhikari
- * @link    https://github.com/nanodesigns/download-via-email/
+ * @link    https://github.com/mayeenulislam/download-via-email/
  *
  * @param   string $username Email username. Default: 'noreply'.
  * @return  string noreply@yourdomain.dom

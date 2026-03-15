@@ -131,14 +131,14 @@ module.exports = function (grunt) {
                         'dist/.*'
                     ],
                     mainFile: 'nanosupport.php',
-                    potComments: 'Copyright (c) ' + year + ' nanodesigns',
+                    potComments: 'Copyright (c) ' + year + ' Mayeenul Islam',
                     potFilename: 'nanosupport.pot',
                     potHeaders: {
                         poedit: true,
                         'x-poedit-keywordslist': true,
-                        'report-msgid-bugs-to': 'https://github.com/nanodesigns/nanosupport/issues',
-                        'last-translator': 'nanodesigns (https://nanodesignsbd.com/)',
-                        'language-team': 'nanodesigns <info@nanodesignsbd.com>',
+                        'report-msgid-bugs-to': 'https://github.com/mayeenulislam/nanosupport/issues',
+                        'last-translator': 'mayeenulislam (https://mayeenulislam.github.io/)',
+                        'language-team': 'mayeenulislam <info@nishachor.com>',
                         'language': 'en_US'
                     },
                     processPot: null,

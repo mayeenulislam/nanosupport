@@ -5,7 +5,7 @@
  * Showing the common ticket center of all the support tickets to the respective privileges.
  * Show all the tickets at the front end using shortcode [nanosupport_desk]
  *
- * @author  	nanodesigns
+ * @author  	Mayeenul Islam
  * @category 	Shortcode
  * @package 	NanoSupport
  */

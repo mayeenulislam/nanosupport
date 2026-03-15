@@ -4,7 +4,7 @@
  *
  * General core functions available on both front end and admin.
  *
- * @author  	nanodesigns
+ * @author  	Mayeenul Islam
  * @category 	Core
  * @package 	NanoSupport
  * @version   	1.0.0

@@ -2,7 +2,7 @@
  * NanoSupport Copy to Knowledgebase Scripts
  * Scripts to copy NanoSupport ticket content to Knowledgebase.
  *
- * @author  nanodesigns
+ * @author  Mayeenul Islam
  * @package NanoSupport
  */
  jQuery(document).ready(function($) {

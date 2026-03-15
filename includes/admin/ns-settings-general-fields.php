@@ -4,7 +4,7 @@
  *
  * Showing general settings callback, fields, and validation.
  *
- * @author  	nanodesigns
+ * @author  	Mayeenul Islam
  * @category 	Settings API
  * @package 	NanoSupport
  */

@@ -259,7 +259,7 @@ function nanosupport_widget_callback() { ?>
 
         <hr>
         <div class="ns-text-center">
-        	<?php printf( '<a href="https://github.com/nanodesigns/nanosupport/issues/new/choose" target="_blank" rel="noopener">'. __( 'Rate us <span aria-label="Five Star">%s</span>', 'nanosupport' ) .'</a>', '<i class="ns-icon-star-filled" aria-hidden="true"></i><i class="ns-icon-star-filled" aria-hidden="true"></i><i class="ns-icon-star-filled" aria-hidden="true"></i><i class="ns-icon-star-filled" aria-hidden="true"></i><i class="ns-icon-star-filled" aria-hidden="true"></i>' ); ?> | <?php printf( '<a href="https://github.com/nanodesigns/nanosupport/issues/new/choose" target="_blank" rel="noopener">'. __( 'Get Support', 'nanosupport' ). '</a>' ); ?> | <a href="https://nanodesignsbd.com?ref=nanosupport" target="_blank" rel="noopener" title="nanodesigns - developer of the plugin"><strong>nano</strong>designs</a>
+        	<?php printf( '<a href="https://github.com/mayeenulislam/nanosupport/issues/new/choose" target="_blank" rel="noopener">'. __( 'Rate us <span aria-label="Five Star">%s</span>', 'nanosupport' ) .'</a>', '<i class="ns-icon-star-filled" aria-hidden="true"></i><i class="ns-icon-star-filled" aria-hidden="true"></i><i class="ns-icon-star-filled" aria-hidden="true"></i><i class="ns-icon-star-filled" aria-hidden="true"></i><i class="ns-icon-star-filled" aria-hidden="true"></i>' ); ?> | <?php printf( '<a href="https://github.com/mayeenulislam/nanosupport/issues/new/choose" target="_blank" rel="noopener">'. __( 'Get Support', 'nanosupport' ). '</a>' ); ?> | <a href="https://mayeenulislam.github.io?ref=nanosupport" target="_blank" rel="noopener" title="Mayeenul Islam - developer of the plugin">Mayeenul Islam</a>
         </div>
 
     </section>

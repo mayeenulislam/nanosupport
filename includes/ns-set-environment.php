@@ -4,7 +4,7 @@
  *
  * Functions that are used for Setting up the plugin.
  *
- * @author      nanodesigns
+ * @author      Mayeenul Islam
  * @category    Core
  * @package     NanoSupport
  */

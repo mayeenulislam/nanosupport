@@ -4,7 +4,7 @@
  *
  * All the responsible functions for NanoSupport.
  *
- * @author      nanodesigns
+ * @author      Mayeenul Islam
  * @category    Core
  * @package     NanoSupport
  */

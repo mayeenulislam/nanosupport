@@ -1,6 +1,6 @@
 === NanoSupport — Support Ticketing & Knowledgebase for WordPress ===
 
-Contributors: nanodesigns, wzislam
+Contributors: wzislam
 Tags: helpdesk, support desk, support ticket, ticket plugin, ticket system, ticketing system, help desk, wp support ticketing, support staff, support ticketing, knowledge base, support plugin
 Requires at least: 4.4.0
 Tested up to: 5.1
@@ -25,7 +25,7 @@ The plugin is to provide support to your users - the users those are taking prod
 
 = Extend NanoSupport =
 
-* [**Knowledgebase Search**](https://creativemarket.com/nanodesigns/3461090-NanoSupport-Knowledgebase-Search?ref=nswporg) &mdash; Search the Knowledgebase documents separately and suggest users from the Knowledgebase documents while submitting a new ticket.
+* [**Knowledgebase Search**](https://creativemarket.com/mayeenulislam/3461090-NanoSupport-Knowledgebase-Search?ref=nswporg) &mdash; Search the Knowledgebase documents separately and suggest users from the Knowledgebase documents while submitting a new ticket.
 
 = Features =
 
@@ -82,9 +82,9 @@ To get E-Commerce Support, you will need either:
 
 NanoSupport is an Open Source and GPL licensed Free plugin. Feel free to contribute.
 
-* [Fork on Github](https://github.com/nanodesigns/nanosupport)
-* [Report Bug](https://github.com/nanodesigns/nanosupport/issues)
-* [Get Support](https://github.com/nanodesigns/nanosupport/issues)
+* [Fork on Github](https://github.com/mayeenulislam/nanosupport)
+* [Report Bug](https://github.com/mayeenulislam/nanosupport/issues)
+* [Get Support](https://github.com/mayeenulislam/nanosupport/issues)
 
 = Translation =
 
@@ -94,10 +94,9 @@ Or, you can use software like [POEdit](https://poedit.net/download) ('cross-plat
 
 = Connect with NanoSupport team =
 
-* [Website](https://nanodesignsbd.com?ref=nanosupport)
-* [Twitter](https://twitter.com/nanodesigns/)
-* [Facebook](https://facebook.com/nanodesignsbd/)
-* [LinkedIn](https://www.linkedin.com/company/nanodesigns/)
+* [Twitter](https://x.com/mayeenulislam/)
+* [Facebook](https://facebook.com/mayeenulislam/)
+* [LinkedIn](https://www.linkedin.com/in/mayeenulislam/)
 
 == Installation ==
 
@@ -131,7 +130,7 @@ Or, you can use software like [POEdit](https://poedit.net/download) ('cross-plat
 == Frequently Asked Questions ==
 
 = Q: Is there any User Guide to using NanoSupport? =
-**A:** Yes, please consult the [**NanoSupport User Guide**](https://github.com/nanodesigns/nanosupport/wiki).
+**A:** Yes, please consult the [**NanoSupport User Guide**](https://github.com/mayeenulislam/nanosupport/wiki).
 
 = Q: How to install the Plugin? =
 **A:** Please visit the plugin\'s Installation page to get the details.
@@ -171,7 +170,7 @@ Or, you can use software like [POEdit](https://poedit.net/download) ('cross-plat
 
 == Changelog ==
 
-[See changelog for all versions](https://github.com/nanodesigns/nanosupport/blob/master/CHANGELOG.txt).
+[See changelog for all versions](https://github.com/mayeenulislam/nanosupport/blob/master/CHANGELOG.txt).
 
 == Upgrade Notice ==
 

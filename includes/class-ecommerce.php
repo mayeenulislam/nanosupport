@@ -4,7 +4,7 @@
  *
  * Make the way to enable/disable e-commerce feature.
  *
- * @author      nanodesigns
+ * @author      Mayeenul Islam
  * @category    Class/ECommerce
  * @package     NanoSupport
  */

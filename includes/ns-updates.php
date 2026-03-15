@@ -2,7 +2,7 @@
 /**
  * Functions related to NanoSupport updates
  *
- * @author   	nanodesigns
+ * @author   	Mayeenul Islam
  * @category 	Core
  * @package  	NanoSupport/Core
  * @version  	1.0.0

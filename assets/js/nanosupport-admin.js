@@ -2,7 +2,7 @@
  * NanoSupport Admin Scripts
  * Scripts to decorate/manipulate and executed AJAX requests in NanoSupport admin-end.
  *
- * @author  nanodesigns
+ * @author  Mayeenul Islam
  * @package NanoSupport
  */
  jQuery(document).ready(function($) {

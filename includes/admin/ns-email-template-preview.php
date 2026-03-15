@@ -4,7 +4,7 @@
  *
  * Displaying a preview of the email template of NanoSupport.
  *
- * @author  	nanodesigns
+ * @author  	Mayeenul Islam
  * @category 	NanoSupport/Templates/
  * @package 	NanoSupport
  * @version     1.0.0

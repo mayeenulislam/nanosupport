@@ -5,7 +5,7 @@
  * Functions to initiate the Custom Post Type 'nanosupport'
  * and Taxonomy 'nanosupport_department'.
  *
- * @author      nanodesigns
+ * @author      Mayeenul Islam
  * @category    Tickets
  * @package     NanoSupport
  */

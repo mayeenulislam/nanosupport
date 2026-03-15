@@ -5,7 +5,7 @@
  * Uninstalling/Deleteing the plugin with pages, tickets, departments,
  * knowledgebase docs, categories, and settings with no traces left.
  *
- * @author      nanodesigns
+ * @author      Mayeenul Islam
  * @category    Core
  * @package     NanoSupport/Uninstaller
  * @version     1.0.0

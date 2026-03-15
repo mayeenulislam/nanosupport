@@ -2,7 +2,7 @@
  * NanoSupport Dashboard Scripts
  * Scripts to decorate/manipulate NanoSupport Dashboard widget.
  *
- * @author  nanodesigns
+ * @author  Mayeenul Islam
  * @package NanoSupport
  */
 

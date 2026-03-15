@@ -5,7 +5,7 @@
  * Showing the functionality for submitting a ticket from the the front end
  * using shortcode [nanosupport_submit_ticket]
  *
- * @author  	nanodesigns
+ * @author  	Mayeenul Islam
  * @category 	Shortcode
  * @package 	NanoSupport
  * @version     1.0.0

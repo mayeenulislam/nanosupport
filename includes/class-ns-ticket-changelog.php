@@ -4,7 +4,7 @@
  *
  * Class responsible for storing the ticket changes overtime.
  *
- * @author      nanodesigns
+ * @author      Mayeenul Islam
  * @package     NanoSupport/Classes
  */
 

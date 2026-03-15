@@ -4,7 +4,7 @@
  *
  * Showing a settings page for the Plugin setup.
  *
- * @author  	nanodesigns
+ * @author  	Mayeenul Islam
  * @category 	Settings API
  * @package 	NanoSupport
  */
@@ -460,7 +460,7 @@ function nanosupport_settings_page_callback() {
 				</div> <!-- /.nanosupport-left-column nanosupport-general-settings -->
 				<div class="nanosupport-right-column">
 
-					<?php require_once '__nanodesigns.php'; ?>
+					<?php require_once '__developer.php'; ?>
 
 				</div> <!-- /.nanosupport-right-column -->
 				<div class="ns-clearfix"></div>
@@ -477,7 +477,7 @@ function nanosupport_settings_page_callback() {
 				</div> <!-- /.nanosupport-left-column nanosupport-knowledgebase-settings -->
 				<div class="nanosupport-right-column">
 
-					<?php require_once '__nanodesigns.php'; ?>
+					<?php require_once '__developer.php'; ?>
 
 				</div> <!-- /.nanosupport-right-column -->
 				<div class="ns-clearfix"></div>
@@ -494,7 +494,7 @@ function nanosupport_settings_page_callback() {
 				</div> <!-- /.nanosupport-left-column nanosupport-email-settings -->
 				<div class="nanosupport-right-column">
 
-					<?php require_once '__nanodesigns.php'; ?>
+					<?php require_once '__developer.php'; ?>
 
 				</div> <!-- /.nanosupport-right-column -->
 				<div class="ns-clearfix"></div>

@@ -4,7 +4,7 @@
  *
  * All the responsible functions for emailing for NanoSupport.
  *
- * @author      nanodesigns
+ * @author      Mayeenul Islam
  * @category    Email
  * @package     NanoSupport
  */

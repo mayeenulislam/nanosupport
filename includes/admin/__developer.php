@@ -2,10 +2,10 @@
 /**
  * Advertisement
  *
- * Advertisement of nanodesigns on Free version.
+ * Advertisement of products on Free version.
  * Visible only on the right side of the NanoSupport Settings page.
  *
- * @author  	nanodesigns
+ * @author  	Mayeenul Islam
  * @category 	Advertisement
  * @package 	NanoSupport
  */
@@ -35,10 +35,10 @@ $ns_knowledgebase_settings = get_option( 'nanosupport_knowledgebase_settings' );
 
 <hr>
 <p class="ns-text-center">
-	<?php printf( '<a href="https://github.com/nanodesigns/nanosupport/issues/new/choose" target="_blank" rel="noopener">'. __( 'Rate us <span aria-label="Five Star">%s</span>', 'nanosupport' ) .'</a>', '<i class="ns-icon-star-filled" aria-hidden="true"></i><i class="ns-icon-star-filled" aria-hidden="true"></i><i class="ns-icon-star-filled" aria-hidden="true"></i><i class="ns-icon-star-filled" aria-hidden="true"></i><i class="ns-icon-star-filled" aria-hidden="true"></i>' ); ?> | <?php printf( '<a href="https://github.com/nanodesigns/nanosupport/issues/new/choose" target="_blank" rel="noopener">'. __( 'Get Support', 'nanosupport' ). '</a>' ); ?> | <a href="https://nanodesignsbd.com?ref=nanosupport" target="_blank" rel="noopener" title="nanodesigns - developer of the plugin"><strong>nano</strong>designs</a>
+	<?php printf( '<a href="https://github.com/mayeenulislam/nanosupport/issues/new/choose" target="_blank" rel="noopener">'. __( 'Rate us <span aria-label="Five Star">%s</span>', 'nanosupport' ) .'</a>', '<i class="ns-icon-star-filled" aria-hidden="true"></i><i class="ns-icon-star-filled" aria-hidden="true"></i><i class="ns-icon-star-filled" aria-hidden="true"></i><i class="ns-icon-star-filled" aria-hidden="true"></i><i class="ns-icon-star-filled" aria-hidden="true"></i>' ); ?> | <?php printf( '<a href="https://github.com/mayeenulislam/nanosupport/issues/new/choose" target="_blank" rel="noopener">'. __( 'Get Support', 'nanosupport' ). '</a>' ); ?> | <a href="https://mayeenulislam.github.io?ref=nanosupport" target="_blank" rel="noopener" title="Mayeenul Islam - developer of the plugin">Mayeenul Islam</a>
 </p>
 
 <hr>
-<a href="https://creativemarket.com/nanodesigns/3461090-NanoSupport-Knowledgebase-Search?ref=nssidebar" title="Get NanoSupport Knowledgebase Search Extension" target="_blank" rel="noopener" style="display: block;">
+<a href="https://creativemarket.com/mayeenulislam/3461090-NanoSupport-Knowledgebase-Search?ref=nssidebar" title="Get NanoSupport Knowledgebase Search Extension" target="_blank" rel="noopener" style="display: block;">
 	<img src="<?php echo NS()->plugin_url(); ?>/assets/images/nskb-search-advertisement.png" alt="Get NanoSupport Knowledgebase Search Extension" style="width: 100%; max-width: 100%;">
 </a>

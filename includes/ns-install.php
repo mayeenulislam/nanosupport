@@ -2,7 +2,7 @@
 /**
  * Installation related functions and actions
  *
- * @author   	nanodesigns
+ * @author   	Mayeenul Islam
  * @category 	Core
  * @package  	NanoSupport/Classes
  * @version  	1.0.0

@@ -2,7 +2,7 @@
  * NanoSupport Scripts
  * Scripts to decorate/manipulate NanoSupport front-end.
  *
- * @author  nanodesigns
+ * @author  Mayeenul Islam
  * @package NanoSupport
  */
  jQuery(document).ready(function($) {

@@ -16,7 +16,7 @@
  * version below will reflect any changes made to the template file. And
  * for any major changes the Upgrade Notice will inform you pointing this.
  *
- * @author  	nanodesigns
+ * @author  	Mayeenul Islam
  * @category 	Content
  * @package 	NanoSupport/Templates/
  * @version     1.0.0

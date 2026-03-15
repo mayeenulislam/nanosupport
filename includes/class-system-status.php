@@ -4,7 +4,7 @@
  *
  * Prepare the system status data in an organized way.
  *
- * @author      nanodesigns
+ * @author      Mayeenul Islam
  * @category    Class/Helpers
  * @package     NanoSupport
  */

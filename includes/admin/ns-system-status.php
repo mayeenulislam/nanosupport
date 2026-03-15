@@ -4,7 +4,7 @@
  *
  * Showing a system status page for the plugin debugging.
  *
- * @author  	nanodesigns
+ * @author  	Mayeenul Islam
  * @category 	Debug
  * @package 	NanoSupport
  */
@@ -205,7 +205,7 @@ function nanosupport_system_status_page_callback() {
 		</div> <!-- /.nanosupport-left-column ns-tools -->
 		<div class="nanosupport-right-column">
 
-			<?php require_once '__nanodesigns.php'; ?>
+			<?php require_once '__developer.php'; ?>
 
 		</div> <!-- /.nanosupport-right-column -->
 		<div class="ns-clearfix"></div>

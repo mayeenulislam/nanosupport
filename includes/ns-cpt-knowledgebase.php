@@ -5,7 +5,7 @@
  * Functions to initiate the Custom Post Type 'nanodoc'
  * and the Taxonomy 'nanodoc_category'.
  *
- * @author      nanodesigns
+ * @author      Mayeenul Islam
  * @category    Knowledgebase
  * @package     NanoSupport
  */

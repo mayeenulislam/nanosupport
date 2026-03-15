@@ -1,17 +1,17 @@
 <?php
 /**
  * @package           NanoSupport
- * @author            nanodesigns <info@nanodesignsbd.com>
+ * @author            Mayeenul Islam <info@nishachor.com>
  * @license           GPL-2.0+
- * @link              https://nanodesignsbd.com/
+ * @link              https://mayeenulislam.github.io/nanosupport
  *
  * @wordpress-plugin
  * Plugin Name:       NanoSupport
- * Plugin URI:        https://nanosupport.nanodesignsbd.com/
+ * Plugin URI:        https://mayeenulislam.github.io/nanosupport
  * Description:       Create a fully featured Support Center within your WordPress environment without any third party system dependency, completely FREE. The built-in Knowledgebase is to inform public with generalized queries.
  * Version:           0.6.0
- * Author:            nanodesigns
- * Author URI:        https://nanodesignsbd.com/
+ * Author:            Mayeenul Islam
+ * Author URI:        https://mayeenulislam.github.io/
  * Requires at least: 4.4.0
  * Tested up to:      5.1
  * License:           GPL-2.0+
